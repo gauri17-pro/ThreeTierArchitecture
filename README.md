@@ -1,7 +1,3 @@
-**Get The Challenge here**
-
-[![YouTube Video](https://img.youtube.com/vi/tvWQRTbMS1g/maxresdefault.jpg)](https://youtu.be/tvWQRTbMS1g?si=eki-boMemxr4PU7-)
-
 ## Prerequisites
 - Basic knowledge of Docker, and AWS services.
 - An AWS account with necessary permissions.
